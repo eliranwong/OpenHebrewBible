@@ -13,7 +13,7 @@ The project aims to:
 3) <a href='https://berean.bible'>Berean.bible (interlinear translation, Berean Study Bible, etc.)</a>
 
 <b>Remarks:</b> Resources from my other GitHub repositories are drawn into this project for mapping purpose.  
-Major repositories consulted for this porject include:
+Major repositories used by this porject include:
 
 <a href='https://github.com/eliranwong/ETCBC-recycle'>https://github.com/eliranwong/ETCBC-recycle</a><br>
 <a href='https://github.com/eliranwong/BHS-morphology'>https://github.com/eliranwong/BHS-morphology</a><br>
