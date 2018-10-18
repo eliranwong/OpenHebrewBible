@@ -11,3 +11,10 @@ The project aims to:
 1) <a href='https://github.com/ETCBC/bhsa'>ETCBC (Hebrew text BHSA, linguitic annotations, morphology, etc.)</a>
 2) <a href='https://github.com/openscriptures/morphhb'>OpenScriptures (Hebrew text WLC, Strong's numbers, morphology, etc.)</a>
 3) <a href='https://berean.bible'>Berean.bible (interlinear translation, Berean Study Bible, etc.)</a>
+
+<b>Remarks:</b> Resources from my other GitHub repositories are drawn into this project for mapping purpose.  
+Major repositories consulted for this porject include:
+
+<a href='https://github.com/eliranwong/ETCBC-recycle'>https://github.com/eliranwong/ETCBC-recycle</a>
+<a href='https://github.com/eliranwong/BHS-morphology'>https://github.com/eliranwong/BHS-morphology</a>
+<a href='https://github.com/eliranwong/BHS-Strong-no'>https://github.com/eliranwong/BHS-Strong-no</a>
