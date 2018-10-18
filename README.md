@@ -1,4 +1,4 @@
-# OpenHB
+# OpenHebrewBible
 Open Hebrew Bible Project
 
 This project is a counterpart to our <a href='https://github.com/eliranwong/OpenGNT'>Open Greek New Testament Project</a>.
