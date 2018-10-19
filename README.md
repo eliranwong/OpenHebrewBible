@@ -2,6 +2,8 @@
 Open Hebrew Bible Project
 
 This project is a counterpart to our <a href='https://github.com/eliranwong/OpenGNT'>Open Greek New Testament Project</a>.
+<br>
+Fruits of both Open Greek New Testament Project and Open Hebrew Hebrew Project will be integrated together in a forthcoming <a href='https://Marvel.bible'>Marvel.bible</a>.
 
 The project aims to:
 
