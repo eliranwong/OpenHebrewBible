@@ -14,6 +14,8 @@ The project aims to:
 2) <a href='https://github.com/openscriptures/morphhb'>OpenScriptures (Hebrew text WLC, Strong's numbers, morphology, etc.)</a>
 3) <a href='https://berean.bible'>Berean.bible (interlinear translation, Berean Study Bible, etc.)</a>
 
+- Resulting data will be presented in an upcoming site <a href='https://Marvel.bible'>https://Marvel.bible</a>
+
 <b>Remarks:</b> Resources from my other GitHub repositories are drawn into this project for mapping purpose.  
 Major repositories used by this porject include:
 
