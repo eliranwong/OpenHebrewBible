@@ -1,0 +1,1 @@
+Apply data from <a href='https://github.com/eliranwong/OpenHebrewBible/blob/master/001-aligning-BHS-WLC/final-mapping-data.csv'>https://github.com/eliranwong/OpenHebrewBible/blob/master/001-aligning-BHS-WLC/final-mapping-data.csv</a> to align the text of WLC with ETCBC's clause segmentation.
