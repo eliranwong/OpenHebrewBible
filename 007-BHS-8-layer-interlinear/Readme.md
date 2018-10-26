@@ -5,6 +5,6 @@ Integrate data from ETCBC, OpenScriptures and Berean projects to produce a 8-lay
 3) Pronunciation guide - ETCBC's phonetic transcription
 4) Lexeme - ETCBC Hebrew lexeme
 5) Morphology - ETCBC morphology
-6) Strong’ no - OpenScriptures via Berean project
+6) Strong’ no - OpenScriptures via Berean project; supplemented by data from <a href='https://github.com/eliranwong/BHS-Strong-no'>Eliran Wong's repository</a>
 7) Gloss - ETCBC gloss
 8 ) Translation - Berean Study Bible
