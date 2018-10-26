@@ -4,8 +4,7 @@ Source of BHSA:
 
 Source of WLC: 
 
-Information provided by John Isett, the developer of BibleHub.com and Berean.bible
-
+<u>Information provided by John Isett, the developer of BibleHub.com and Berean.bible about the Berean translation table:</u><br>
 Westminster Leningrad Codex text courtesy of <a href='http://www.tanach.us'>www.tanach.us</a><br>
 Hebrew Transliteration Via <a href='http://alittlehebrew.com/transliterate/'>ALittleHebrew.com</a><br>
 Strong's Tagging via <a href='http://openscriptures.org'>Open Scriptures, David Troidl and Christopher Kimball</a><br>
