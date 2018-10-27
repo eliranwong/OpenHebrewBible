@@ -13,7 +13,7 @@ Integrate data from ETCBC, OpenScriptures and Berean projects to produce a 8-lay
 
 <b>Remarks:</b><br>
 In our extended version of Strong's numbers:<br>
-- <a href='https://github.com/eliranwong/OpenHebrewBible/blob/master/002-BHS-with-Strong-no/working-files/supplement.csv'>Strong's numbers are supplemented to 356 words</a> in the text of BHSA, which are not tagged in the original OpenScriptures / Berean project
+- <a href='https://github.com/eliranwong/OpenHebrewBible/blob/master/002-BHS-with-Strong-no/working-files/supplement.csv'>We worked out 356 Strong's numbers for 356 words in the text of BHSA</a>, which are not tagged in the original OpenScriptures / Berean project
 - In addition, a total of 121077 words are tagged with extended entries: H9003, H9004, H9005, H9008, H9000, H9009.<br>
 Oririginal Strong's conventions do not have an entry corresponding to any of these six entries.<br>
 File <a href='https://github.com/eliranwong/OpenHebrewBible/blob/master/002-BHS-with-Strong-no/extended-sn-H9003_H9004_H9005_H9008_H9000_H9009.csv'>extended-sn-H9003_H9004_H9005_H9008_H9000_H9009.csv</a> explains what they are.<br>
