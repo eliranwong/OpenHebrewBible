@@ -34,6 +34,7 @@ Major works in this repository:
 - SBL-style-transliteration of the text of BHS
 - paragraph division of the text of BHS
 - poetic line segmentation of the text of BHS
+- design and codes of online reader, Marvel.bible
 
 All works listed above are released under the following license:
 
