@@ -28,7 +28,7 @@ Major repositories used by this porject include:
 
 Major works in this repository:
 - mapping data between ETCBC's Biblia Hebraica Stuttgartensia (Amstelodamensis), OpenScriptures' Strong's numbers and Berean Study Bible
-- alignment data between the text of BHS and bible translations: Berean Study Bible, King James Version, Chinese Union Version
+- data on aligning the text of BHS with bible translations: Berean Study Bible, King James Version, Chinese Union Version
 - clause segmentation of Berean Study Bible
 - KJV versification of the text of BHS
 - SBL-style-transliteration of the text of BHS
