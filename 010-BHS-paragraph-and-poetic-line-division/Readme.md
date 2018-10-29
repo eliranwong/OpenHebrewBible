@@ -1,1 +1,1 @@
-Work out paragraph and poetic line divison.
+Work out paragraph divisions and poetry formatting of the text of BHS, with reference to formattings in New English Translation.
