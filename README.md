@@ -14,6 +14,7 @@ The project aims to:
 2) <a href='https://github.com/openscriptures/morphhb'>OpenScriptures (Hebrew text WLC, Strong's numbers, morphology, etc.)</a>
 3) <a href='https://berean.bible'>Berean.bible (interlinear translation, Berean Study Bible, etc.)</a>
 
+- work out division of paragraphs and poetic lines in the text of BHS.
 - Resulting data will be presented in an upcoming site <a href='https://Marvel.bible'>https://Marvel.bible</a>
 
 <b>Remarks:</b> Resources from my other GitHub repositories are drawn into this project for mapping purpose.  
@@ -22,3 +23,9 @@ Major repositories used by this porject include:
 <a href='https://github.com/eliranwong/ETCBC-recycle'>https://github.com/eliranwong/ETCBC-recycle</a><br>
 <a href='https://github.com/eliranwong/BHS-morphology'>https://github.com/eliranwong/BHS-morphology</a><br>
 <a href='https://github.com/eliranwong/BHS-Strong-no'>https://github.com/eliranwong/BHS-Strong-no</a>
+
+# License
+
+Paraphrah division, poetry formatting, SBL-style transliteration of the text of BHS and all the rest of mapping data in this repository are released under the following license:
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Open Hebrew Bible Project</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://Marvel.bible" property="cc:attributionName" rel="cc:attributionURL">Eliran Wong</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/eliranwong/OpenHebrewBible" rel="dct:source">https://github.com/eliranwong/OpenHebrewBible</a>.<br />Permissions beyond the scope of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="https://biblebento.com/contact/contactform.php" rel="cc:morePermissions">https://biblebento.com/contact/contactform.php</a>.
