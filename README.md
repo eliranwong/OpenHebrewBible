@@ -44,7 +44,7 @@ All works listed above are released under the following license:
 
 # Credits
 
-<u><b>ETCBC's Biblia Hebraica Stuttgartensia (Amstelodamensis) with Linguistic Annotations</b></u>
+<u><b>ETCBC's Biblia Hebraica Stuttgartensia (Amstelodamensis) with Linguistic Annotations</b></u><br>
 Source of ETCBC data: github.com/ETCBC/text-fabric-data/tree/master/hebrew/etcbc4c
 
 This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. That means:
