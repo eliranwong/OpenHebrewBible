@@ -62,3 +62,22 @@ Used by Permission. All Rights Reserved Worldwide.<br>
 <u><b>Open Scriptures Hebrew Bible</b></u>
 
 Part of Strong's numbers adapted in Open Hebrew Bible Project has its original in the following repository:  https://github.com/openscriptures/morphhb
+
+<u><b>King James Version [KJV]</b></u>
+
+This is the 1769 King James Version of the Holy Bible (also known as the Authorized Version).</p><p>Published in 1769; public domain.
+
+<u><b>Lexham English Bible [LEB]</b></u>
+
+Scripture quotations from the <a href='http://lexhamenglishbible.com'>Lexham English Bible</a>. Copyright 2012 <a href='https://www.logos.com'>Logos Bible Software</a>. Lexham is a registered trademark of Logos Bible Software.
+
+License of LEB: <a href='http://lexhamenglishbible.com/license/'>http://lexhamenglishbible.com/license/</a>
+
+"You can give away the Lexham English Bible, but you can't sell it on its own. ..."
+
+<u><b>Chinese Union Version [CUV]</b></u>
+
+Chinese Union Version is in public domain.
+
+Source (GNU Free Documentation License Version 1.1): <a href='https://bible.fhl.net/public/'>https://bible.fhl.net/public/</a>
+
