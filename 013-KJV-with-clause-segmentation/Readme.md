@@ -1,0 +1,1 @@
+KJV with clause segmentation
