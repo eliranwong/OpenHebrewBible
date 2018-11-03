@@ -1,1 +1,1 @@
-Work out paragraph divisions and poetry formatting of the text of BHS.
+Work out paragraph divisions and poetry linebreaks of the text of BHS.
