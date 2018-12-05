@@ -1,4 +1,4 @@
-Fomatted files of TBESH.
+Files of TBESH, formatted for use at <a href="https://marvel.bible">https://marvel.bible</a>
 
 Credit TBESH to:
 
