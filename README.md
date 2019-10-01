@@ -1,3 +1,10 @@
+# Looking for 'Open Hebrew Bible' on Android / iPhone / iPad platforms?
+
+We have recently launched our mobile versions in Google Play Store and Apple App Store.
+
+Illustrated User Manual: <a href='https://www.uniquebible.app/mobile'>https://www.uniquebible.app/mobile</a><br>
+Links for downloads: <a href='https://www.uniquebible.app/download'>https://www.uniquebible.app/download</a>
+
 # OpenHebrewBible
 Open Hebrew Bible Project
 
