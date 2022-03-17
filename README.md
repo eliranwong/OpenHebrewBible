@@ -1,19 +1,8 @@
 # NEW - Audio MP3 Files on Open Hebrew Greek Bible
 
-Faster speaking rate:
+Faster speaking rate: https://github.com/eliranwong/MP3_OpenHebrewGreekBible_fast
 
-https://github.com/eliranwong/MP3_OpenHebrewGreekBible_fast
-
-Slower speaking rate:
-
-https://github.com/eliranwong/MP3_OpenHebrewGreekBible_slow
-
-# Looking for 'Open Hebrew Bible' on Android / iPhone / iPad platforms?
-
-We have recently launched our mobile versions in Google Play Store and Apple App Store.
-
-Illustrated User Manual: <a href='https://www.uniquebible.app/mobile'>https://www.uniquebible.app/mobile</a><br>
-Links for downloads: <a href='https://www.uniquebible.app/download'>https://www.uniquebible.app/download</a>
+Slower speaking rate: https://github.com/eliranwong/MP3_OpenHebrewGreekBible_slow
 
 # OpenHebrewBible
 Open Hebrew Bible Project
