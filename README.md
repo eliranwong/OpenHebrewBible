@@ -55,7 +55,7 @@ Please note that the use of the text of BHS here is under the same license of it
 <u><b>ETCBC's Biblia Hebraica Stuttgartensia (Amstelodamensis) with Linguistic Annotations</b></u><br>
 Source of ETCBC data: github.com/ETCBC/text-fabric-data/tree/master/hebrew/etcbc4c
 
-This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. That means:
+This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. The text of the Hebrew bible is:
 
 The Hebrew text: Biblia Hebraica Stuttgartensia, edited by Karl Elliger and Wilhelm Rudolph, Fifth Revised Edition, edited by Adrian Schenker, © 1977 and 1997 Deutsche Bibelgesellschaft, Stuttgart.
 
