@@ -1,3 +1,7 @@
+# NEW - Word-by-word MP3 Audio on BHS5
+
+https://github.com/eliranwong/MP3_BHS5_word-by-word
+
 # NEW - Audio MP3 Files on Open Hebrew Greek Bible
 
 Faster speaking rate: https://github.com/eliranwong/MP3_OpenHebrewGreekBible_fast
