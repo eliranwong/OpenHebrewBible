@@ -1,3 +1,9 @@
+# NEW - Hebrew & Greek Word by Word Audio is now available online
+
+Direct access at (no installation is required):
+
+http://bible.gospelchurch.uk/index.html?cmd=text:::MIB
+
 # NEW - Word-by-word MP3 Audio on BHS5
 
 https://github.com/eliranwong/MP3_BHS5_word-by-word
