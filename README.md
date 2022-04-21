@@ -4,6 +4,12 @@ Direct access at (no installation is required):
 
 http://bible.gospelchurch.uk/index.html?cmd=text:::MIB
 
+Hebrew examples: https://bible.gospelchurch.uk/traditional.html?cmd=bible%3A%3A%3AMIB%3A%3A%3AGen+1
+
+Greek examples: https://bible.gospelchurch.uk/traditional.html?cmd=bible%3A%3A%3AMIB%3A%3A%3ARm+1
+
+To access audio features, click the "music note" buttons, next to verse numbers of words.
+
 # NEW - Word-by-word MP3 Audio on BHS5
 
 https://github.com/eliranwong/MP3_BHS5_word-by-word
