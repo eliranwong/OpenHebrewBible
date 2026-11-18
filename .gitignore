@@ -1,0 +1,14 @@
+data/morphology.sqlite
+.agents/*
+.codex/*
+.cursor/*
+.claude/*
+.grok/*
+preferences/bible.md
+preferences/lexicon.md
+preferences/commentary.md
+web_app_*.py
+AGENTS.md
+CLAUDE.md
+data/02_morphology_hebrew_strongs_numbers_fixed.sqlite
+data/01_morphology_translation_fixed.sqlite
